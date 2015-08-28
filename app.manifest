@@ -1,0 +1,26 @@
+CACHE MANIFEST
+
+
+CACHE:
+//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js
+//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
+//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular-route.js
+bower_components/angular-google-analytics/dist/angular-google-analytics.min.js
+bower_components/underscore/underscore-min.js
+bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js
+bower_components/html5-boilerplate/dist/css/normalize.css
+bower_components/html5-boilerplate/dist/css/main.css
+index.html
+app.css
+app.js
+companies.json
+templates/profile.html
+templates/search-result.html
+
+
+NETWORK:
+http://*
+https://*
+*
+
+# hash: af7a55d844f1ed00168d68e6a3849c4d371c8bf4e96310cd8eb5ed930eb7a635
